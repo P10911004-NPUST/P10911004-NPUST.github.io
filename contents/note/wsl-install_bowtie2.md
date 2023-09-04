@@ -29,3 +29,14 @@ ubuntu@JK:~$ cd bowtie2
 ``` bash
 ubuntu@JK:~/bowtie2$ sudo apt install bowtie2
 ```
+
+### 6. Check if it is installed successfully
+
+``` bash
+ubuntu@JK:~/bowtie2$ bowtie2
+```
+
+``` bash
+# No index, query, or output file specified!
+# Bowtie 2 version 2.4.4 by Ben Langmead (langmea@cs.jhu.edu, www.cs.jhu.edu/~langmea)
+```
